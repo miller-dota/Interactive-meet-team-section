@@ -9,7 +9,10 @@ The component presents a vertical stack of grayscale profile images. Hovering ov
 ## Preview
 
 See the interaction in action, including hover animations, image scaling, and dynamic content updates.
-<video src="./interaction demo.mov" controls width="900"></video>
+<p align="center">
+ <img src="interaction demo.gif" width="600" />
+</p>
+
 
 ### Default State
 
